@@ -1,0 +1,45 @@
+.\objects\dhcp.o: ..\SERVER\dhcp.c
+.\objects\dhcp.o: D:\keil5 mdk\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\dhcp.o: D:\keil5 mdk\ARM\ARMCC\Bin\..\include\string.h
+.\objects\dhcp.o: ..\HARDWARE\w5500.h
+.\objects\dhcp.o: ..\USER\stm32f4xx.h
+.\objects\dhcp.o: ..\CORE\core_cm4.h
+.\objects\dhcp.o: D:\keil5 mdk\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\dhcp.o: ..\CORE\core_cmInstr.h
+.\objects\dhcp.o: ..\CORE\core_cmFunc.h
+.\objects\dhcp.o: ..\CORE\core_cm4_simd.h
+.\objects\dhcp.o: ..\USER\system_stm32f4xx.h
+.\objects\dhcp.o: ..\USER\stm32f4xx_conf.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_adc.h
+.\objects\dhcp.o: ..\USER\stm32f4xx.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_crc.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_dbgmcu.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_dma.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_exti.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_flash.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_gpio.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_i2c.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_iwdg.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_pwr.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_rcc.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_rtc.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_sdio.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_spi.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_syscfg.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_tim.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_usart.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_wwdg.h
+.\objects\dhcp.o: ..\FWLIB\inc\misc.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_cryp.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_hash.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_rng.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_can.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_dac.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_dcmi.h
+.\objects\dhcp.o: ..\FWLIB\inc\stm32f4xx_fsmc.h
+.\objects\dhcp.o: ..\HARDWARE\Types.h
+.\objects\dhcp.o: ..\HARDWARE\socket.h
+.\objects\dhcp.o: ..\SERVER\dhcp.h
+.\objects\dhcp.o: ..\HARDWARE\utility.h
+.\objects\dhcp.o: ..\HARDWARE\w5500_conf.h
+.\objects\dhcp.o: ..\HARDWARE\timers.h

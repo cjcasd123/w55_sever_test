@@ -1,0 +1,43 @@
+.\objects\netbios.o: ..\NetBios\netbios.c
+.\objects\netbios.o: D:\keil5 mdk\ARM\ARMCC\Bin\..\include\string.h
+.\objects\netbios.o: D:\keil5 mdk\ARM\ARMCC\Bin\..\include\stdio.h
+.\objects\netbios.o: ..\HARDWARE\w5500.h
+.\objects\netbios.o: ..\USER\stm32f4xx.h
+.\objects\netbios.o: ..\CORE\core_cm4.h
+.\objects\netbios.o: D:\keil5 mdk\ARM\ARMCC\Bin\..\include\stdint.h
+.\objects\netbios.o: ..\CORE\core_cmInstr.h
+.\objects\netbios.o: ..\CORE\core_cmFunc.h
+.\objects\netbios.o: ..\CORE\core_cm4_simd.h
+.\objects\netbios.o: ..\USER\system_stm32f4xx.h
+.\objects\netbios.o: ..\USER\stm32f4xx_conf.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_adc.h
+.\objects\netbios.o: ..\USER\stm32f4xx.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_crc.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_dbgmcu.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_dma.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_exti.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_flash.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_gpio.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_i2c.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_iwdg.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_pwr.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_rcc.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_rtc.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_sdio.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_spi.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_syscfg.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_tim.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_usart.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_wwdg.h
+.\objects\netbios.o: ..\FWLIB\inc\misc.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_cryp.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_hash.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_rng.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_can.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_dac.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_dcmi.h
+.\objects\netbios.o: ..\FWLIB\inc\stm32f4xx_fsmc.h
+.\objects\netbios.o: ..\HARDWARE\Types.h
+.\objects\netbios.o: ..\HARDWARE\socket.h
+.\objects\netbios.o: ..\HARDWARE\utility.h
+.\objects\netbios.o: ..\NetBios\netbios.h
