@@ -23,12 +23,11 @@
    内部资源的分配
 	W5500IO口设置
 
-
+	主要实现基本功能（sever1）
 
 */
 
 uint8 table1[] = "hello world!";
-// di ceng chu shi hua 
 void p_system_init(void)
 {
 	NVIC_PriorityGroupConfig(NVIC_PriorityGroup_2);
